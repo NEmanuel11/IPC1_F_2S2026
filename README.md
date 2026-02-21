@@ -1,4 +1,4 @@
--------Inicalizacion del Programa------
+-------Inicializacion del Programa------
 1. Ingresar la opcion, brindada por el menú.
 2. En caso que sea CREAR TABLERO
 3. Ingrese tu nombre
